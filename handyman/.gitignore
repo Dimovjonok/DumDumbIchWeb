@@ -1,5 +1,5 @@
 #Database
-* .sqlite3
+*.sqlite3
 
 # Text backup files
 *.bak
